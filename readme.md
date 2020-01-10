@@ -5,7 +5,7 @@
 This repository contains open hardware design files for an adapter board supporting the Allied Vision Alvium CSI-2 camera pinout to NVidias Nano Development kit and Raspberry Pi CSI-2 connector compatible devices, created by Allied Vision.
 The board allows the user to interface with one Alvium MIPI CSI-2 compatible camera over a Flexible Flat Cable (FFC) connector.
 
-This adapter can also be ordered at [Allied Vision](https://www.alliedvision.com/en/meta-header/contact-us/contact-sales.html) or a [qualified Allied Vision distributor](https://www.alliedvision.com/en/about-us/where-we-are.html) under order code **12918** - Adapter Board CSI-2 RPi / Nvidia Jetson Nano Dev Kit
+This adapter can also be ordered at [Allied Vision](https://www.alliedvision.com/en/meta-header/contact-us/contact-sales.html) or a [qualified Allied Vision distributor](https://www.alliedvision.com/en/about-us/where-we-are.html) under order code **14918** - Adapter Board CSI-2 RPi / Nvidia Jetson Nano Dev Kit
 .
 
 ## Getting Started
