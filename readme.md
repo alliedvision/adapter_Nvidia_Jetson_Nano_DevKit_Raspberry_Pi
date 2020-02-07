@@ -21,7 +21,7 @@ See our [website](https://www.alliedvision.com/en/support/technical-documentatio
 * A PCB producer & PCBA manufacturer or some soldering skills.
 * One of the supported embedded boards :
 	* Jetson Nano Developer Kit 
-	* Raspberry Pi with 15-pin CSI-2 connector
+	* Raspberry Pi with 15-pin CSI-2 connector (not tested, currently no driver and support available)
 	* other boards with 15-pin CSI-2 connector, with Raspberry Pi pinout (not tested, currently no driver and support available)
 * One supported MIPI CSI-2 FPC cable
 	* Allied Vision part numbers #12316, 12317, 12318
