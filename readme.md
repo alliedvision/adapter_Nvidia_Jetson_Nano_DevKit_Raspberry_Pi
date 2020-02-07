@@ -22,7 +22,7 @@ See our [website](https://www.alliedvision.com/en/support/technical-documentatio
 * One of the supported embedded boards :
 	* Jetson Nano Developer Kit 
 	* Raspberry Pi with 15-pin CSI-2 connector
-	* other boards with 15-pin CSI-2 connector, with Raspberry Pi pinout
+	* other boards with 15-pin CSI-2 connector, with Raspberry Pi pinout (not tested, currently no driver and support available)
 * One supported MIPI CSI-2 FPC cable
 	* Allied Vision part numbers #12316, 12317, 12318
 * [One Allied Vision Alvium CSI-2 camera](https://www.alliedvision.com/en/products/embedded-vision-cameras.html)
